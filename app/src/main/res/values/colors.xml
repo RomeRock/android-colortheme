@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#17B0EF</color>
+    <color name="colorPrimaryDark">#1976d2</color>
+    <color name="colorAccent">#0288D1</color>
+    <color name="principal_content">#EEF2F4</color>
+    <color name="principal_border_content">#AAADAF</color>
+    <color name="drawable">#2A3033</color>
+    <color name="drawableHeader">#495155</color>
+    <color name="white">#FFFFFF</color>
+    <color name="centerDetect">#F3FBFB</color>
+    <color name="black">#000000</color>
+    <color name="setting_text_color_list">#343434</color>
+    <color name="ratinStar">#EF5E05</color>
+    <color name="text_border">#D5D5D5</color>
+    <color name="pop_up_using_currency">#F3FBFB</color>
+    <color name="dark_color">#000000</color>
+    <color name="colorPrimaryOrange">#EF4517</color>
+    <color name="colorPrimaryDarkOrange">#C33109</color>
+    <color name="colorAccentOrange">#C33109</color>
+    <color name="colorPrimaryGreen">#5CBF0C</color>
+    <color name="colorPrimaryDarkGreen">#489B05</color>
+    <color name="colorAccentGreen">#489B05</color>
+    <color name="colorPrimaryPink">#E20A70</color>
+    <color name="colorPrimaryDarkPink">#B00858</color>
+    <color name="colorAccentPink">#B00858</color>
+    <color name="off_full">#7E7E7E</color>
+    <color name="on_full">#515151</color>
+</resources>
